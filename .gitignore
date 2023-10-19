@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/obj/Debug/net6.0
+/Lessons/.vs/Lessons
+/Lessons/FunctionExercises/obj
+/Lessons/FunctionExercises/bin/Debug/net6.0
+/Lessons/LoopExercises/bin/Debug/net6.0
+/Lessons/LoopExercises/obj
